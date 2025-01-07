@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error related to implicit type coercion and its solution. The bug arises when a variable is used in a context expecting a different type, causing the compiler to throw a 1069 error. The solution involves explicit type casting to resolve the type mismatch. The provided examples highlight the error and the fix.
